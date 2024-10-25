@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": {"model": "big_block:block/big_block", "x": 90},
+    "facing=east": {"model": "big_block:block/big_block", "x": 90, "y": 90},
+    "facing=south": {"model": "big_block:block/big_block", "x": 90, "y": 180},
+    "facing=west": {"model": "big_block:block/big_block", "x": 90, "y": 270},
+    "facing=down": {"model": "big_block:block/big_block", "x": 180},
+    "facing=up": {"model": "big_block:block/big_block"}
+  }
+}
